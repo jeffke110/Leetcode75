@@ -25,5 +25,14 @@ The the Leetcode 75 Collection is a curated set of 75 interview questions that t
       <td>Easy</td>
       <td>✅</td>
     </tr>
+        <tr>
+      <td>
+        <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Greatest Common Divisor of Strings
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>✅</td>
+    </tr>
   </tbody>
 </table>
