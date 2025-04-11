@@ -102,8 +102,48 @@ The the Leetcode 75 Collection is a curated set of 75 interview questions that t
         <strong>Two Pointers</strong>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Move Zeroes
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Is Subsequence
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Container With Most Water
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Max Number of K-Sum Pairs
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>✅</td>
+    </tr>
+        <tr>
+      <td colspan="5" align="center">
+        <strong>Sliding Window</strong>
+      </td>
+    </tr>
     
-
     
   </tbody>
 </table>
