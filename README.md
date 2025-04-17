@@ -143,7 +143,7 @@ The the Leetcode 75 Collection is a curated set of 75 interview questions that t
         <strong>Sliding Window</strong>
       </td>
     </tr>
-      <tr>
+    <tr>
       <td>
         <a href="https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
           Maximum Average Subarray I
@@ -172,13 +172,27 @@ The the Leetcode 75 Collection is a curated set of 75 interview questions that t
       <td>Medium</td>
       <td>✅</td>
     </tr>
-      <tr>
+    <tr>
       <td>
         <a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
           Longest Subarray of 1's After Deleting One Element
         </a>
       </td>
       <td>Medium</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td colspan="5" align="center">
+        <strong>Prefix Sum</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/problems/find-the-highest-altitude/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Find the Highest Altitude
+        </a>
+      </td>
+      <td>Easy</td>
       <td>✅</td>
     </tr>
     
