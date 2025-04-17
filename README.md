@@ -195,6 +195,15 @@ The the Leetcode 75 Collection is a curated set of 75 interview questions that t
       <td>Easy</td>
       <td>✅</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Find Pivot Index
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>✅</td>
+    </tr>
     
     
   </tbody>
