@@ -204,6 +204,20 @@ The the Leetcode 75 Collection is a curated set of 75 interview questions that t
       <td>Easy</td>
       <td>✅</td>
     </tr>
+    <tr>
+      <td colspan="5" align="center">
+        <strong>Hash Map / Set</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Find-the Difference of Two Arrays
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>✅</td>
+    </tr>
     
     
   </tbody>
