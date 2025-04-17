@@ -163,10 +163,19 @@ The the Leetcode 75 Collection is a curated set of 75 interview questions that t
       <td>✅</td>
     </tr>
     </tr>
-      <tr>
+    <tr>
       <td>
         <a href="https://leetcode.com/problems/max-consecutive-ones-iii/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
           Max Consecutive Ones III
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>✅</td>
+    </tr>
+      <tr>
+      <td>
+        <a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Longest Subarray of 1's After Deleting One Element
         </a>
       </td>
       <td>Medium</td>
