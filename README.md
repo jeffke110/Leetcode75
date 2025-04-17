@@ -227,6 +227,24 @@ The the Leetcode 75 Collection is a curated set of 75 interview questions that t
       <td>Easy</td>
       <td>✅</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Determine if Two Strings Are Close
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>✅</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://leetcode.com/problems/equal-row-and-column-pairs/description/?envType=study-plan-v2&envId=leetcode-75" target="_blank">
+          Equal Row and Column Pairs
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>✅</td>
+    </tr>
     
     
   </tbody>
